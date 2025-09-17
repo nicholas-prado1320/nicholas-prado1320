@@ -44,7 +44,7 @@
     <td></td>
     <td align="right">
       <img src="assets/Coding The Matrix GIF.gif" alt="Gato de código" width="120"><br>
-      <sub><b>MIAUbrigado pela visita 😺</b></sub>
+      <sub><b>MIAUchas graças pela visita 😺</b></sub>
     </td>
   </tr>
 </table>
