@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-prado1320&layout=compact&theme=radical"/>
 </div>
 
-<div align="right" style="margin-top: 1.25rem;">
+<div align="right" style="margin-top: 20px;">
   <img src="assets/Coding The Matrix GIF.gif" alt="Gato de código" width="140"/><br>
   <sub><b>MIAUchas graças pela visita 😺</b></sub>
 </div>
