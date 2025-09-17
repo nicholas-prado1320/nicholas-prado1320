@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou Nicholas Prado 👋</h1>
 
-- 🎓 Estudante de Sistemas de Informação
+- 🎓 Estudante de Sistemas de Informação - Uniube 4/8
 - 👨‍💻 Estagiário em desenvolvimento na Vitalsis Soluções Tecnológicas
 - 🚀 Aprendendo Angular e construindo interfaces modernas
 - 🌆 Uberaba - MG, Brasil
@@ -35,5 +35,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholas-prado1320&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-prado1320&layout=compact&theme=radical"/>
 </div>
+
+<p align="center">
+  <img src="assets/Coding The Matrix GIF.gif" alt="Gato de código" width="250"/>
+  <sub>MIAUchas graças pela visita 😺</sub>
+</p>
 
 ---
