@@ -37,7 +37,7 @@
 </div>
 
 <div align="right" style="margin-top: 1.25rem;">
-  <img src="assets/coding-matrix.gif" alt="Gato de código" width="140"/><br>
+  <img src="assets/Coding The Matrix GIF.gif" alt="Gato de código" width="140"/><br>
   <sub><b>MIAUchas graças pela visita 😺</b></sub>
 </div>
 
