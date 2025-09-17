@@ -31,14 +31,23 @@
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholas-prado1320&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-prado1320&layout=compact&theme=radical"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholas-prado1320&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-prado1320&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="right">
+      <img src="assets/Coding The Matrix GIF.gif" alt="Gato de código" width="120"><br>
+      <sub><b>MIAUbrigado pela visita 😺</b></sub>
+    </td>
+  </tr>
+</table>
 
-<div align="right" style="margin-top: 20px;">
-  <img src="assets/Coding The Matrix GIF.gif" alt="Gato de código" width="140"/><br>
-  <sub><b>MIAUchas graças pela visita 😺</b></sub>
-</div>
 
 ---
