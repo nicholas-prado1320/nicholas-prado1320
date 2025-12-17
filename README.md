@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou Nicholas Prado 👋</h1>
 
-- 🎓 Estudante de Sistemas de Informação - Uniube 4/8
+- 🎓 Estudante de Sistemas de Informação - Uniube 5/8
 - 👨‍💻 Programador Júnior na Vitalsis Soluções Tecnológicas
 - 🚀 Aprendendo Angular e construindo interfaces modernas
 - 🌆 Uberaba - MG, Brasil
