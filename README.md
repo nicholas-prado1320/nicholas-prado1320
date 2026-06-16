@@ -19,27 +19,16 @@
 - 📱 Desenvolvimento mobile com Kotlin e Jetpack Compose para coletores operacionais
 - 🎨 Prototipação de interfaces e melhorias visuais com Figma
 - 🛠️ Vivência com Angular, Java Spring Boot, Kotlin, SQL, PostgreSQL, Firebird, Docker e Git
-- 🌎 Objetivo profissional: evoluir como desenvolvedor de software e atuar futuramente em projetos internacionais
+- 🌎 Objetivo profissional: evoluir como desenvolvedor de software e atuar futuramente em empresas internacionais
 - 📍 Uberaba - MG, Brasil
 
 ---
 
 ### 📬 Contatos
 
-<p>
-  <a href="mailto:nicholas.ps1000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_nicholaaas">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nicholas-prado-23001b24b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="./curriculo-nicholas-prado.pdf">
-    <img src="https://img.shields.io/badge/Currículo-PDF-2EA44F?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.nicholasprado@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nicholaaas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-prado-23001b24b)
 
 ---
 
@@ -56,6 +45,7 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=prime&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 #### Back-end e APIs
@@ -87,7 +77,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/VMs-607D8B?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -105,5 +94,5 @@
 ---
 
 <p align="center">
-  <strong>“Transformando problemas reais em soluções simples, úteis e bem estruturadas.”</strong>
+  <strong><i>“Transformando problemas reais em soluções simples, úteis e bem estruturadas.”</i></strong>
 </p>
